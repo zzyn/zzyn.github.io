@@ -1,6 +1,6 @@
 # Site Info
 title: 法天贵真
-tagline: 'A Jekyll theme based on Lanyon'
+tagline: '人能常清静,天地悉皆归.'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://zzyn.github.io" target="_blank">@Zack</a>.'
 baseurl: ""
 url: http://zzyn.github.io
@@ -54,7 +54,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/qingjing.jpg
-  caption: 清静经 &copy; 人能常清静，天地悉皆归.
+  caption: 清静经 &copy; 人能常清静,天地悉皆归.
 
 # Puglins
 mathjax: true # whether support mathjax
