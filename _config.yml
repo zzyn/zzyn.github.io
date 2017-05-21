@@ -1,7 +1,7 @@
 # Site Info
 title: 法天贵真
 tagline: '人能常清静,天地悉皆归.'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://zzyn.github.io" target="_blank">@Zack</a>.'
+description: 'A Jekyll theme made by <a href="http://zzyn.github.io" target="_blank">@Zack Zou</a>.'
 baseurl: ""
 url: http://zzyn.github.io
 logo: '/public/logo.png'
@@ -24,8 +24,8 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Zack
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  name: Zack Zou
+  description: A Fullstack Engineer and <strong>Designer</strong>.
   gravatar: e81924facb09b0d3edd80ad170cd9e22 # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/zongyin/
