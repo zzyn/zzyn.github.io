@@ -33,7 +33,7 @@ author:
     # facebook:  <hide>
     # twitter:   
     # weibo:     
-    # email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    email:     mail:zzyn125@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -46,7 +46,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://zzyn.github.io/'
+    - 'http://github.com/zzyn'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
