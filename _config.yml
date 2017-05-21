@@ -53,7 +53,7 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: /public/img/qingjing.jpg
+  image: /public/img/qingjing.png
   caption: 清静经 &copy; 人能常清静,天地悉皆归.
 
 # Puglins
