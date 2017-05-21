@@ -1,1 +1,63 @@
-theme: jekyll-theme-dinky
+# Site Info
+title: 法天贵真
+tagline: 'A Jekyll theme based on Lanyon'
+description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://zzyn.github.io" target="_blank">@Zack</a>.'
+baseurl: "/lanyon"
+url: http://zzyn.github.io
+logo: '/public/logo.png'
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss    
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: Zack
+  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  gravatar: e81924facb09b0d3edd80ad170cd9e22 # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/zongyin/
+    github:    https://github.com/zzyn
+    # facebook:  <hide>
+    # twitter:   
+    # weibo:     
+    # email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+  Github Project: 
+    - 'http://zzyn.github.io/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: /public/img/qingjing.jpg
+  caption: 清静经 &copy; 人能常清静，天地悉皆归.
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token:  # leave blank if you don't want google analytics
+disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+
